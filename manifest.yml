@@ -1,9 +1,9 @@
 applications:
-- host: <your app host>
+- host: S0279214-Ass2
   disk: 128M
-  name: <your app name>
+  name: S0279214-Ass2
   command: node app.js
   path: .
   domain: mybluemix.net
   memory: 128M
-  instances: 1
+  instances: 3
